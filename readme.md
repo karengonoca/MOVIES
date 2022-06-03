@@ -2,4 +2,4 @@
 ## Integrantes:
  - Gonzalez karen
  - Da Silva Walter
- - Nahiara Stefania
+ - Nahiara Stefania 20, San Miguel
